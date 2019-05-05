@@ -1,0 +1,2 @@
+# Projecty
+For practcing github
